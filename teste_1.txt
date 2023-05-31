@@ -1,0 +1,3 @@
+console('Meu primeiro teste');
+
+end
